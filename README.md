@@ -4,6 +4,7 @@ Summer Olympic Data Analysis
 Summer Olympics Data Analysis Assignment 
 
 1. In how many cities Summer Olympics is held so far ?
+<br>
 Answer = Total 22 cities summer olympic is held so far.(London most of the time)
 <br>
 <br>
