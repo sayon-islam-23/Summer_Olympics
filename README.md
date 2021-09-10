@@ -5,8 +5,8 @@ Summer Olympics Data Analysis Assignment
 
 1. In how many cities Summer Olympics is held so far ?
 <br>
-<br>
 Answer = Total 22 cities summer olympic is held so far.(London most of the time)
+<br>
 <br>
 2. Which sport is having most number of Gold Medals so far? (Top 5)
 <br>
