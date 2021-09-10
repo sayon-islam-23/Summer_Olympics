@@ -37,7 +37,7 @@ Answer = PHELPS, Michael wins the most number of gold medals.
 6. In which year India won first Gold Medal in Summer Olympics? 
 <br>
 Answer = In 1928 India won the first gold medal.
-
+<br>
 7.  Which event is most popular in terms on number of players? (Top 5)
 <br>
 Answer = Football is the most popular in terms on number of players. 
