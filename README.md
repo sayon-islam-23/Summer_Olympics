@@ -51,7 +51,9 @@ Answer = In Aquatics Event, there are most female gold medalist
 ![#8](https://user-images.githubusercontent.com/68483305/132919595-945251e7-b709-4893-a4ec-82f149d5c3a4.png)
 
 
-
+<br>
+In the Answers.ipynb you'll find all the answers.
+In the Summer_Olympics.ipynb you'll find out the logic
 
 
 
